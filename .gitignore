@@ -1,0 +1,7 @@
+.DS_STORE
+node_modules
+npm-debug.log
+lib
+yarn.lock
+NOTES.md
+static/admin.js
